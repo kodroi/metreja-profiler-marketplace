@@ -16,7 +16,8 @@
         "source": "url",
         "url": "https://github.com/kodroi/metreja-profiler.git"
       },
-      "strict": true
+      "strict": true,
+      "skills": ["./skills/"]
     }
   ]
 }
