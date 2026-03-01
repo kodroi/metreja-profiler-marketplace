@@ -1,0 +1,20 @@
+{
+  "name": "metreja-profiler-marketplace",
+  "owner": { "name": "Iiro Rahkonen" },
+  "metadata": {
+    "description": ".NET profiling tools for Claude Code",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "metreja-profiler",
+      "version": "0.1.0",
+      "description": ".NET Call-Path Profiler — profile performance bottlenecks and trace execution flow",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/kodroi/metreja-profiler.git"
+      },
+      "strict": true
+    }
+  ]
+}
