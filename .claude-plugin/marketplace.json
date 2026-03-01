@@ -10,14 +10,16 @@
   "plugins": [
     {
       "name": "metreja-profiler",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "description": ".NET Call-Path Profiler \u2014 profile performance bottlenecks and trace execution flow",
       "source": {
         "source": "url",
         "url": "https://github.com/kodroi/metreja-profiler.git"
       },
       "strict": true,
-      "skills": ["./skills/"]
+      "skills": [
+        "./skills/"
+      ]
     }
   ]
 }
