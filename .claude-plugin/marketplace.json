@@ -10,7 +10,7 @@
   "plugins": [
     {
       "name": "metreja-profiler",
-      "version": "0.1.8",
+      "version": "0.1.9",
       "description": ".NET Call-Path Profiler \u2014 profile performance bottlenecks and trace execution flow",
       "source": {
         "source": "url",
